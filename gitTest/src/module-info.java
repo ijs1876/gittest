@@ -1,0 +1,8 @@
+/**
+ * aaaa
+ */
+/**
+ * 
+ */
+module gitTest {
+}
